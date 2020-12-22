@@ -1,0 +1,28 @@
+.footer {
+	background-image: url('../Images/footer-img.jpg');
+    background-size: 100% 100%;
+      width: 100%;
+  
+    
+}
+.footer-text {
+    color: white;
+    width: 100%;
+    font-size: x-large;
+    
+}
+.social{
+    margin: 0px 0px 0px 0px;
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    float: right;
+    position: relative;
+}
+.social li a{
+	    margin: 0px 0px 0px 37px;
+}
+.footer-copyright {
+    font-size: 20px;
+    color: white;
+}

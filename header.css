@@ -1,0 +1,22 @@
+.header {
+
+  background-image: url('../Images/homepage-bg.png');
+
+  background-size: 100% 100%;
+   width: 100%;
+  height: 475px;
+}
+.header-OtherPg {
+
+  background-image: url('../Images/footer-img.jpg');
+
+  background-size: 100% 100%;
+}
+.header-request{
+	margin: 0px 0px -116px 0px;
+}
+.img-fluid {
+    
+    max-width: 100%;
+    height: auto;
+}
